@@ -1,2 +1,2 @@
 # Closures Workshop for Bronx Coffee and Code Meeting
-6 April 2017
+13 April 2017
